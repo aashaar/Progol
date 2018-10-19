@@ -1,0 +1,30 @@
+ Please use the following commands and you should be good to use progol.
+
+1. Download Progol:
+
+wget https://www.doc.ic.ac.uk/~shm/Software/progol4.4/progol4_4.tar.gz
+
+2. Download expand.sh file:
+
+wget https://www.doc.ic.ac.uk/~shm/Software/progol4.4/expand.sh
+
+3. run the shell command expand.sh, a source folder will be created:
+
+sh expand.sh
+
+4. go to source folder:
+
+cd source
+
+5. run progol:
+
+./progol
+
+Done.
+
+You should be on the progol console now, looks something like below.
+
+{csgrads1:~/source} ./progol
+
+CProgol Version 4.4
+|-

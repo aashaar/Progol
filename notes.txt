@@ -1,0 +1,8 @@
+1] To add input just include A, ~B & ~C_in, add the following clauses to the input file:
+a.
+not_b.
+not_c_in.
+
+You can change these as required.
+
+2]
