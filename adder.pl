@@ -1,6 +1,6 @@
 a.
-b.
-c_in.
+not_b.
+not_c_in.
 v_o:-
   not_a, not_b, c_in.
 v_o:-
