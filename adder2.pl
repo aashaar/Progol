@@ -1,5 +1,5 @@
-a
-c_in
+a.
+c_in.
 v_o:-
   not(a), not(b), c_in.
 v_o:-
